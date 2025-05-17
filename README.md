@@ -1,2 +1,0 @@
-# practic8
-hello
